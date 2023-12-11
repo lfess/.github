@@ -1,4 +1,4 @@
-![LF Energy Standards and Specifications Logo](https://artwork.lfenergy.org/other/lf-energy-standards-and-specifications/horizontal/color/lf-energy-standards-and-specifications-horizontal-color.svg)
+![LF Energy Standards and Specifications Logo](https://artwork.lfess.energy/other/lf-energy-standards-and-specifications/horizontal/color/lf-energy-standards-and-specifications-horizontal-color.svg)
 
 Repositories hosted here include:
 
